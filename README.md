@@ -57,8 +57,3 @@ Este projeto atualmente está finalizado.
 - Projetos - [Lucass2021](https://github.com/Lucass2021)
 
 - Linkedin - [@Lucas Dias da Silva](https://www.linkedin.com/in/lucas-dias-da-silva-118954199/)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 166c209b00bd183ac11b5995cbdbf80bcea7433d
