@@ -48,7 +48,25 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto atualmente está finalizado.
 
+---
 
+## :heavy_check_mark: A ser adicionado
+
+- Funcionalidade de Calculadora Cientifica
+- Salvar dados no visor
+
+---
+
+## :handshake: Seja um contribuidor
+
+Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
+
+1. Faça um fork do projeto
+2. Modifique o que achar necessário
+3. Faça o commit das mudanças
+4. Crie um Pull Request
+
+---
 
 ---
 
