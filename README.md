@@ -2,27 +2,26 @@
     <img src="logo.png"/>
 </h1>
 
-# Sumário
+# Summary
 
-- [Descrição](#📝-Descrição)
-- [Projeto](#💻-Projeto)
-- [Tecnologias utilizadas](#🚀-Tecnologias-utilizadas)
-- [Status do Projeto](#🎯-Status-do-Projeto)
-
----
-
-## 📝 Descrição
-
-> A Calculadora com JavaScript é um projeto simples utilizado para aprender conceitos básicos da linguagem JavaScript.
-
-
+- [Description](#📝-Description)
+- [Project](#💻-Project)
+- [Technologies](#🚀-Technologies)
+- [Project Stats](#🎯-Project-Stats)
 
 ---
 
-## 💻 Projeto
+## 📝 Description
 
-* <b>Operações Básicas</b>: A calculadora é capaz de realizar calculos com as 4 operações
-básicas da matemática.
+> The Simple Calculator is a simple project used to learn and experience basic concepts of the JavaScript language.
+
+
+
+---
+
+## 💻 Project
+
+* <b>Basic Operationss</b>: The calculator is currently only capable to execute the 4 basic operations from Math.
 
 
 <h1 align="center">
@@ -33,8 +32,8 @@ básicas da matemática.
 
 ---
 
-## 🚀 Tecnologias utilizadas
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 * VS Code;
 * HTML;
 * CSS;
@@ -44,33 +43,32 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-## 🎯 Status do Projeto
+## 🎯 Project Stats
 
-Este projeto atualmente está finalizado.
+This project is currently finished.
 
----
-
-## :heavy_check_mark: A ser adicionado
-
-- Funcionalidade de Calculadora Cientifica
-- Salvar dados no visor
 
 ---
 
-## :handshake: Seja um contribuidor
+## :heavy_check_mark: To do list
 
-Tem alguma ideia que poderia alavancar ainda mais o projeto, e deseja implementar? É simples!
-
-1. Faça um fork do projeto
-2. Modifique o que achar necessário
-3. Faça o commit das mudanças
-4. Crie um Pull Request
+- Scientific Calculator mode
 
 ---
 
+## :handshake: Become a Contributor
+
+Do you have any ideas that you want to implement it? It's simple!
+
+1. Fork the project
+2. Modify what you think is necessary
+3. Commit the changes
+4. Create a Pull Request
+
 ---
 
-## Autor
+
+## Author
 
 - Projetos - [Lucass2021](https://github.com/Lucass2021)
 
